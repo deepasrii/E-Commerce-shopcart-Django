@@ -10,8 +10,8 @@ Django is a high-level Python web framework that encourages rapid development an
 
 ## Features
 
-Ridiculously fast
-Reassuringly secure
-Exceedingly scalable
+Ridiculously fast,
+Reassuringly secure,
+Exceedingly scalable.
 
 ## "Happy Coding"
